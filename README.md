@@ -8,7 +8,7 @@ A small project that uses Flickr API to search images based on the keyword.
 - No 3rd party Libraries Used.
 - Create a Flickr API key and replace in line number 124 **flickrKey** with your own key in Flickr.swift 
 
-## 🤔 Requirements
+## Requirements
 
 * Deployment target of your App is >= iOS 10.0
 * XCode 9.3 or later
