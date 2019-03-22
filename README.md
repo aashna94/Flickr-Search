@@ -41,3 +41,9 @@ Increase the per_page count to download more photos.
 }
 ```
 
+## Other Features that can be integrated in this project:
+- Speech to text conversion in the Search bar
+- Using some AI model, find images based on an image provided in the search bar instead of text.
+- Caching of images
+- Infinite Scrolling
+- Sharing of images with friends on Social Media Platforms
